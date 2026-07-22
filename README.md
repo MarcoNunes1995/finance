@@ -1,5 +1,7 @@
 # NovaWallet — Dashboard (Homepage)
 
+[![CI](https://github.com/MarcoNunes1995/finance/actions/workflows/ci.yml/badge.svg)](https://github.com/MarcoNunes1995/finance/actions/workflows/ci.yml)
+
 Projeto exemplo: Homepage PWA/Web para NovaWallet.
 
 ## Estrutura principal
